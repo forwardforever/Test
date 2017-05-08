@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //这是我全命令行操作
 		//这是建的分支进行开发
+		//解决冲突
     }
 }
